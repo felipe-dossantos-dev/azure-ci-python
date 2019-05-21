@@ -1,2 +1,0 @@
--e git+git@github.com:fgsantos89/azure-ci-python.git@c102d0b54a1fe3cf7791bbb222a36648bd9e6e24#egg=azure_ci_python
-pkg-resources==0.0.0
